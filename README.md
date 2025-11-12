@@ -2,7 +2,7 @@
 ## 🔭 I’m currently working on: <br>
 BlockAI:<br>     https://github.com/Bensho125/BlockAI_Svelte <br>     https://github.com/Bensho125/BlockAI-Backend<br> Https://blockai-edu.xyz <br>
 LibraryProject:<br>     https://github.com/Bensho125/Libraryproject<br>
-host -ntrusion-detection-system:<br> https://github.com/ryanshaar1/HIDS---host-intrusion-detection-system<br>
+host-intrusion-detection-system:<br> https://github.com/ryanshaar1/HIDS---host-intrusion-detection-system<br>
 
 ## my previous projects:<br>
 arduino_final_project: <br> https://github.com/Bensho125/arduino_final_project<br>
