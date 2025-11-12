@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BlockAI:<br>     https://github.com/Bensho125/BlockAI_Svelte <br>     https://github.com/Bensho125/BlockAI-Backend<br>🔭 I’m currently working on LibraryProject:<br>     https://github.com/Bensho125/Libraryproject
+🔭 I’m currently working on BlockAI:<br>     https://github.com/Bensho125/BlockAI_Svelte <br>     https://github.com/Bensho125/BlockAI-Backend<br> Https://blockai-edu.xyz <br>🔭 I’m currently working on LibraryProject:<br>     https://github.com/Bensho125/Libraryproject
 
 
 ## 🌐 Socials:
